@@ -1,6 +1,6 @@
 import profile from "../assets/profile.jpeg";
-import { LiaLinkedin } from "react-icons/lia";
-import { FiGithub } from "react-icons/fi";
+import { LiaLinkedin } from "react-icons/lia"; // LinkedIN ICON 
+import { FiGithub } from "react-icons/fi"; // GitHub icon
 
 const HeroSection = () => {
 
